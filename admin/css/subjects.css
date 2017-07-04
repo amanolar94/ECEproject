@@ -1,0 +1,16 @@
+#tomeas{
+	display: inline-block; !Important
+	padding-right: -100px; !Important
+}
+#eksamino{
+	display: inline-block; !Important
+	padding-right: -100px; !Important
+}
+
+
+th,td{
+	text-align: center;
+}
+table{
+	margin-left: : 25%;
+}

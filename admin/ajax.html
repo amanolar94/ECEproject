@@ -1,0 +1,32 @@
+<html>
+<head>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.1/jquery.min.js"></script>
+<script src="admin.js"></script>
+
+<script>
+
+  getPost();
+  enterpress();
+</script>
+
+
+</head>
+<body>
+<div class="row search-row">
+                <div class="col-md-12">
+                <div class="input-group">
+                    <input type="text" class="form-control search-field" id="search" onkeypress="javascript: enterpress()" placeholder="Αναζήτηση" >
+                    <span class="input-group-btn">
+                      <button type="button" class="btn btn-primary go" id="gosearch"  onclick="javascript:getPost()">Go!</button>
+                    </span>
+                  </div>  
+
+                </div>
+              </div>
+
+<br>
+<div id="results"></div>
+
+</body>
+</html>

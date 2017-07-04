@@ -1,0 +1,11 @@
+﻿
+<li> Ντότσικα Ζωή</br><a>secretary@ece.upatras.gr</a></br>+30-2610-996492</br>(Προϊσταμένη Γραμματείας)</li>
+<li> Κατσιγιάννη Ιωάννα</br><a> katsigianni@upatras.gr</a></br>+30-2610-996807</li>
+<li>Κούνα Δέσποινα</br><a> secretary-postgrad@ece.upatras.gr</a></br>+30-2610-996422</li>
+<li>Κωνσταντινοπούλου Ελένη</br><a>  ekonstant@ece.upatras.gr</a></br>+30-2610-996420  </li>
+<li>Κωστόπουλος Παναγιώτης</br><a>panagiot@ece.upatras.gr</a></br>+30-2610-996419</li>
+<li>Μπάρκουλα Ευγενία</br><a> secretary-postgrad@ece.upatras.gr</a></br>+30-2610-996493</li>
+<li>Ντουφεξή Ειρήνη</br><a>rdou@upatras.gr</a></br>+30-2610-996418</li>
+<li>Θωμόπουλος Γεώργιος</br><a>gthomop@ece.upatras.gr</a></br>+30-2610-969867</br>(Προσωπικό ΚΥΠΕΣ)</li>
+<li>Σταυρουλόπουλος Χρήστος</br><a>cstavr@ece.upatras.gr</a></br>+30-2610-996802</br>(Προσωπικό ΚΥΠΕΣ)</li>
+<li>Τσεμπερλίδου Μελπομένη</br><a>menit@ece.upatras.gr</a></br>+30-2610-996418</li>

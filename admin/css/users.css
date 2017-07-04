@@ -1,0 +1,22 @@
+.userhead{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-bottom: 4px #e7eaec solid;
+	font-weight: bold;
+}
+.usercontent{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-bottom: 1px #d6d6d6 solid; 
+}
+.usercontent:hover{
+	background-color: #ededed;
+}
+#newuser{
+	background-color: #1ab394;
+	border-color: #1ab394;
+}
+
+.go{
+border-radius: 5px;
+}

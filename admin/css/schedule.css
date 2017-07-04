@@ -1,0 +1,39 @@
+#time{
+	width: 7%;
+	padding-left: 0px; 
+}
+.scedule-head{
+	background-color:#1cc394;
+}
+
+.myschedule-header{
+	padding-bottom: 20px;
+}
+
+.modal-header{
+	display: inline-block;
+	height: 500px;
+	color: #fff;
+	
+
+	
+}
+.modal-content{
+	width: inherit;
+}
+
+.modal-body{
+	display: inline-block;
+	height: 500px;
+	margin-right: 0px;
+	border-right: 0px;
+
+}
+.subject{
+	padding-left: 5px;
+	text-align: left;
+	
+}
+.modal-body{
+	font-size: 0.85em;
+}

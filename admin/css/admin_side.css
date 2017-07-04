@@ -1,0 +1,68 @@
+#sidemenu ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+#sidemenu a {
+  padding: 12px 20px;
+  text-decoration: none;
+  color: #9fb1c2;
+  font-weight: bold;
+  font-size: 13px;
+  display: block;
+}
+
+#sidemenu .glyphicon {
+  margin-right: 6px;
+}
+
+#sidemenu a:hover{
+  background-color: #192E45;
+  color: #fff;
+  display: block;
+}
+#sidemenu > .logo-side > a:hover{
+  background-color: #2d4d71;
+  /*color: #fff;*/
+  /*display: block;*/
+}
+
+#sidemenu .active a{
+  color: #fff;
+  background-color: #192E45;
+}
+
+#sidemenu .settings-btn{
+  background-color: #1ab394;
+}
+#sidemenu .settings-btn a{
+  color: #fff;
+}
+#sidemenu .settings-btn a:hover{
+  background-color: #1ab394;
+}
+
+#sidemenu .collapseable li{
+  padding-left: 20px;
+  padding-top: 5px;
+}
+
+#sidemenu .collapseable a {
+  color: #9fb1c2;
+  font-size: 12px;
+  padding: 0px 10px;
+  text-decoration: none;
+  display: block;
+}
+#sidemenu .collapseable a:hover{
+  color: #fff;
+
+}
+#sidemenu .collapseable {
+  border-left: 4px solid #1ab394;
+  background-color: #192E45;
+}
+ #sidemenu .link >ul>li{
+   padding: 10px;
+ }

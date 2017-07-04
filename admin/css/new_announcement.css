@@ -1,0 +1,27 @@
+.form-wrapper{
+  background-color: #eee;
+  padding: 20px;
+}
+
+.note-editable{
+  background-color: white;
+}
+.chosen-container, .chosen-container-multi{
+  width: 100% !important;
+}
+
+
+
+#notsubmited{
+	display: none;
+	float: left;
+	margin-right: 10px;
+	margin-top: 7px;
+
+}
+
+#title{
+	height: 2.5em;
+	}
+
+

@@ -1,0 +1,40 @@
+body{
+  background-image: url("../img/up.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+}
+#myjumbotron{
+
+
+  background-color: transparent;
+
+
+
+}
+.myimage{
+  position: absolute;
+  margin-left: 40%;
+  z-index: 1;
+}
+#mynav{
+  z-index: 0;
+  border-radius: 0;
+}
+@media (max-width: 768px)  {
+  #hidden-small {
+    display: none !important;
+  }
+
+
+}
+@media (max-width: 768px)  {
+  #mybrand {
+    display: inline-block !important;
+
+  }
+  #logobrand{
+    height: 130%;
+
+  }
